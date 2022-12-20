@@ -4,7 +4,7 @@
 ### Brainstorming ME :
 - Plastic Artist : [Art](https://www.behance.net/VanderRohe)
 - Dj/Producer : [Music](https://soundcloud.com/van-der-rohe-795638076)
-- "Programmer"
+- "Programmer" {'Python':'Django'}
 - Architec
 - Buddhist
 - Amateur Mycologist
