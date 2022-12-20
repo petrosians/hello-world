@@ -9,7 +9,7 @@
 - Buddhist
 - Amateur Mycologist
 - Chess Lover
-- Golfer with magic. 
+- Magic golfer 
 - Aquarius
 - Aquarius
 - Aquarius [lol]
